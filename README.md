@@ -1,7 +1,9 @@
 ## Hi, I'm Taanyaa! 👋
 
-🎓 Sophomore at San Jose State University majoring in Computer Science  
-💻 Aspiring Software Engineer
+**🎓 Sophomore at San Jose State University majoring in Computer Science**    
+**💻 Aspiring Software Engineer**  
+
+I’m passionate about building projects that solve real-world problems and make a meaningful impact. My interests include application development, artificial intelligence, and machine learning.
 
 <!--
 **taanyaaharidassprasad06/taanyaaharidassprasad06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
