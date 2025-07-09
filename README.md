@@ -20,7 +20,7 @@ Alongside this, I'm exploring other areas of computer science, more specifically
 **App Dev**: Swift _(learning in progress...⏳)_
 
 # ✉️ Contact Me
-🔗 [Linkedin](www.linkedin.com/in/taanyaa-hp)
+🔗 [Linkedin](https://www.linkedin.com/in/taanyaa-hp)
 
 <!--
 **taanyaaharidassprasad06/taanyaaharidassprasad06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
