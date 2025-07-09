@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Taanyaa! 👋
+
+🎓 Sophomore at San Jose State University majoring in Computer Science
+💻 Aspiring Software Engineer
 
 <!--
 **taanyaaharidassprasad06/taanyaaharidassprasad06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
