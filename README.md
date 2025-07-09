@@ -1,6 +1,6 @@
 ## Hi, I'm Taanyaa! 👋
 
-🎓 Sophomore at San Jose State University majoring in Computer Science
+🎓 Sophomore at San Jose State University majoring in Computer Science  
 💻 Aspiring Software Engineer
 
 <!--
