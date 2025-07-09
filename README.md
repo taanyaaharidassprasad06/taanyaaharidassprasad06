@@ -1,9 +1,26 @@
 ## Hi, I'm Taanyaa! 👋
 
-**🎓 Sophomore at San Jose State University majoring in Computer Science**    
+Welcome to my Github profile!
+
+# ⭐️ About Me
+**🎓 Sophomore at San Jose State University | Majoring in Computer Science**    
 **💻 Aspiring Software Engineer**  
 
-I’m passionate about building projects that solve real-world problems and make a meaningful impact. My interests include application development, artificial intelligence, and machine learning.
+# 💡 Interests
+I’m passionate about building projects that solve **real-world problems** and make a meaningful impact. My interests include **application development**, **artificial intelligence**, and **machine learning**. I'm always eager to learn new technologies and take on challenges that help me grow and develop my skills in computer science. 
+
+# 🌱 Currently
+I'm actively learning and expanding my skills in iOS development by working through the **100 Days of SwiftUI** course to learn **Swift** and build iOS apps.
+
+Alongside this, I'm exploring other areas of computer science, more specifically **Machine Learning**, to broaden my programming expertise.
+
+# 🛠️ Tech Stack
+**Languages**: Java, Python 
+**Web Dev**: HTML, CSS, JavaScript
+**App Dev**: Swift _(learning in progress...⏳)_
+
+# ✉️ Contact Me
+🔗 [Linkedin](www.linkedin.com/in/taanyaa-hp)
 
 <!--
 **taanyaaharidassprasad06/taanyaaharidassprasad06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
