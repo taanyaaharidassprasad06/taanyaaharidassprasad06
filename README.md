@@ -15,8 +15,8 @@ I'm actively learning and expanding my skills in iOS development by working thro
 Alongside this, I'm exploring other areas of computer science, more specifically **Machine Learning**, to broaden my programming expertise.
 
 # 🛠️ Tech Stack
-**Languages**: Java, Python 
-**Web Dev**: HTML, CSS, JavaScript
+**Languages**: Java, Python   
+**Web Dev**: HTML, CSS, JavaScript  
 **App Dev**: Swift _(learning in progress...⏳)_
 
 # ✉️ Contact Me
