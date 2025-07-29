@@ -19,8 +19,13 @@ Alongside this, I'm exploring other areas of computer science, more specifically
 **Web Dev**: HTML, CSS, JavaScript  
 **App Dev**: Swift _(learning in progress...⏳)_
 
+# 📁 Projects
+🔗 [Climate Change Toolkit](https://github.com/taanyaaharidassprasad06/climate_toolkit)
+
 # ✉️ Contact Me
 🔗 [Linkedin](https://www.linkedin.com/in/taanyaa-hp)
+
+
 
 <!--
 **taanyaaharidassprasad06/taanyaaharidassprasad06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
