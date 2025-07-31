@@ -18,9 +18,12 @@ Alongside this, I'm exploring other areas of computer science, more specifically
 **Languages**: Java, Python   
 **Web Dev**: HTML, CSS, JavaScript  
 **App Dev**: Swift _(learning in progress...⏳)_
+**Libraries & Frameworks**: Scikit-learn, Pandas, NumPy, Matplotlib
+**Development Tools**: Jupyter Notebooks
 
 ## 📁 Projects
 🔗 [Climate Change Toolkit](https://github.com/taanyaaharidassprasad06/climate_toolkit)
+🔗 [Airbnb NYC Listings Price Prediction](https://github.com/taanyaaharidassprasad06/airbnb-price-prediction)
 
 ## ✉️ Contact Me
 🔗 [Linkedin](https://www.linkedin.com/in/taanyaa-hp)
