@@ -23,6 +23,7 @@ Alongside this, I'm exploring other areas of computer science, more specifically
 
 ## 📁 Projects
 🔗 [Climate Change Toolkit](https://github.com/taanyaaharidassprasad06/climate_toolkit)
+
 🔗 [Airbnb NYC Listings Price Prediction](https://github.com/taanyaaharidassprasad06/airbnb-price-prediction)
 
 ## ✉️ Contact Me
