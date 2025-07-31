@@ -22,11 +22,12 @@ Alongside this, I'm exploring other areas of computer science, more specifically
 **Development Tools**: Jupyter Notebooks
 
 ## 📁 Projects
-🔗 [Climate Change Toolkit](https://github.com/taanyaaharidassprasad06/climate_toolkit)
+|        Project       |            Description            |     Tech     |
+| -------------------- | --------------------------------- | ------------ |
+| [Climate Change Toolkit](https://github.com/taanyaaharidassprasad06/climate_toolkit) | Created an interactive and informative website that explains the impacts of climate change, highlights strategies to combat it, and features a random fact generator showcasing various detrimental effects of climate change. | HTML, CSS, JavaScript |
+| [Airbnb NYC Listings Price Prediction](https://github.com/taanyaaharidassprasad06/airbnb-price-prediction) | Developed and compared multiple models--including Linear Regression, Random Forest, and Gradient Boosted Decision Trees--to predict NYC Airbnb listing prices, improving prediction accuracy and providing insights into feature importance. | Python, Pandas, Scikit-learn, NumPy, Matplotlib, Jupyter Notebooks |
 
-🔗 [Airbnb NYC Listings Price Prediction](https://github.com/taanyaaharidassprasad06/airbnb-price-prediction)
-
-## ✉️ Contact Me
+## 📫 Contact Me
 🔗 [Linkedin](https://www.linkedin.com/in/taanyaa-hp)
 
 
