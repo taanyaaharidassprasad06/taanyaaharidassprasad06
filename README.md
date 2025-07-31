@@ -17,9 +17,9 @@ Alongside this, I'm exploring other areas of computer science, more specifically
 ## 🛠️ Tech Stack
 **Languages**: Java, Python   
 **Web Dev**: HTML, CSS, JavaScript  
-**App Dev**: Swift _(learning in progress...⏳)_
-**Libraries & Frameworks**: Scikit-learn, Pandas, NumPy, Matplotlib
-**Development Tools**: Jupyter Notebooks
+**App Dev**: Swift _(learning in progress...⏳)_  
+**Libraries & Frameworks**: Scikit-learn, Pandas, NumPy, Matplotlib  
+**Development Tools**: Jupyter Notebooks  
 
 ## 📁 Projects
 |        Project       |            Description            |     Tech     |
