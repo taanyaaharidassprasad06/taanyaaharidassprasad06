@@ -10,7 +10,7 @@ Welcome to my Github profile!
 I’m passionate about building projects that solve **real-world problems** and make a meaningful impact. My interests include **application development**, **artificial intelligence**, and **machine learning**. I'm always eager to learn new technologies and take on challenges that help me grow and develop my skills in computer science. 
 
 ## 🌱 Currently
-I'm actively learning and expanding my skills in iOS development by working through the **100 Days of SwiftUI** course to learn **Swift** and build iOS apps.
+I'm actively learning and expanding my skills in front-end development to build web applications.
 
 Alongside this, I'm exploring other areas of computer science, more specifically **Machine Learning**, to broaden my programming expertise.
 
