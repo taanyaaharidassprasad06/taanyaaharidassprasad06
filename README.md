@@ -10,21 +10,25 @@ Welcome to my Github profile!
 I’m passionate about building projects that solve **real-world problems** and make a meaningful impact. My interests include **application development**, **artificial intelligence**, and **machine learning**. I'm always eager to learn new technologies and take on challenges that help me grow and develop my skills in computer science. 
 
 ## 🌱 Currently
-I'm actively learning and expanding my skills in front-end development to build web applications.
+I'm actively learning and expanding my skills in application development.   
 
 Alongside this, I'm exploring other areas of computer science, more specifically **Machine Learning**, to broaden my programming expertise.
+
+|        Activity      |            Description            |     Tech     |
+| -------------------- | --------------------------------- | ------------ |
+| Front-end Development | Actively learning front-end development concepts such as responsive design principles, semantic tags, flexbox, grid system, and much more! | HTML, CSS, JavaScript, Boostrap, Jest, React (_currently learning_) |  
 
 ## 🛠️ Tech Stack
 **Languages**: Java, Python   
 **Web Dev**: HTML, CSS, JavaScript    
-**Libraries & Frameworks**: Bootstrap, Scikit-learn, Pandas, NumPy, Matplotlib  
-**Development Tools**: VS Code, Jupyter Notebooks, Git GitHub   
+**Libraries & Frameworks**: Bootstrap, Jest, React (_currently learning_), Scikit-learn, Pandas, NumPy, Matplotlib  
+**Development Tools**: VS Code, Git, GitHub, Jupyter Notebooks  
 
 ## 📁 Projects
 |        Project       |            Description            |     Tech     |
 | -------------------- | --------------------------------- | ------------ |
-| [Climate Change Toolkit](https://github.com/taanyaaharidassprasad06/climate_toolkit) | Created an interactive and informative website that explains the impacts of climate change, highlights strategies to combat it, and features a random fact generator showcasing various detrimental effects of climate change. | HTML, CSS, JavaScript |
-| [Airbnb NYC Listings Price Prediction](https://github.com/taanyaaharidassprasad06/airbnb-price-prediction) | Developed and compared multiple models--including Linear Regression, Random Forest, and Gradient Boosted Decision Trees--to predict NYC Airbnb listing prices, improving prediction accuracy and providing insights into feature importance. | Python, Pandas, Scikit-learn, NumPy, Matplotlib, Jupyter Notebooks |
+| [Climate Change Toolkit](https://github.com/taanyaaharidassprasad06/climate_toolkit) (June 2022) | Created an interactive and informative website that explains the impacts of climate change, highlights strategies to combat it, and features a random fact generator showcasing various detrimental effects of climate change. | HTML, CSS, JavaScript |
+| [Airbnb NYC Listings Price Prediction](https://github.com/taanyaaharidassprasad06/airbnb-price-prediction) (August 2025) | Developed and compared multiple models--including Linear Regression, Random Forest, and Gradient Boosted Decision Trees--to predict NYC Airbnb listing prices, improving prediction accuracy and providing insights into feature importance. | Python, Pandas, Scikit-learn, NumPy, Matplotlib, Jupyter Notebooks |
 
 ## 📫 Contact Me
 🔗 [Linkedin](https://www.linkedin.com/in/taanyaa-hp)
