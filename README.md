@@ -12,7 +12,7 @@ I’m passionate about building projects that solve **real-world problems** and 
 ## 🌱 Currently
 I'm actively learning and expanding my skills in **application development**.   
 
-Alongside this, I'm exploring other areas of computer science, more specifically **Machine Learning**, to broaden my programming expertise.
+Alongside this, I'm exploring other areas of computer science, more specifically **Artificial Intelligence** and **Machine Learning**, to broaden my programming expertise.
 
 |        Activity      |            Description            |     Tech     |
 | -------------------- | --------------------------------- | ------------ |
