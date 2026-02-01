@@ -16,12 +16,12 @@ Alongside this, I'm exploring other areas of computer science, more specifically
 
 |        Activity      |            Description            |     Tech     |
 | -------------------- | --------------------------------- | ------------ |
-| Front-end Development | Actively learning front-end development concepts such as responsive design principles, semantic tags, flexbox, grid system, and much more! | HTML, CSS, JavaScript, Boostrap, Jest, React (_currently learning_) |  
+| Front-end Development | Actively learning front-end development concepts such as responsive design principles, semantic tags, flexbox, grid system, and much more! | HTML, CSS, JavaScript, React |  
 
 ## 🛠️ Tech Stack
 **Languages**: Java, Python   
 **Web Dev**: HTML, CSS, JavaScript    
-**Libraries & Frameworks**: Bootstrap, Jest, React (_currently learning_), Scikit-learn, Pandas, NumPy, Matplotlib  
+**Libraries & Frameworks**: Bootstrap, Jest, React, Scikit-learn, Pandas, NumPy, Matplotlib  
 **Development Tools**: VS Code, Git, GitHub, Jupyter Notebooks  
 
 ## 📁 Projects
